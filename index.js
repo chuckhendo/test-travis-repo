@@ -6,6 +6,6 @@ module.exports = {
         return "test2";
     },
     test3: function() {
-        return "test3"
+        return "test3";
     }
 };
