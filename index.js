@@ -7,5 +7,8 @@ module.exports = {
     },
     test3: function() {
         return "test3";
+    },
+    test4: function() {
+        return "test3";
     }
 };
